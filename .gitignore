@@ -1,3 +1,8 @@
 server/server.key
 server/server.csr
 server/server.crt
+.gitignore
+
+.vscode/
+client/__pychache__/
+server/__pychache__/
